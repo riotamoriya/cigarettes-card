@@ -3,19 +3,19 @@
  **/
 
 module.exports = {
-  pathPrefix: "/inumakirulet",
+  pathPrefix: "/cigarettes-card",
   siteMetadata: {
-    title: `狗巻棘確率機`,
+    title: `たばこ名刺`,
     author: `@riotamoriya`,
-    siteUrl: `https://riotamoriya.github.io/inumakirulet/`,
+    siteUrl: `https://riotamoriya.github.io/cigarettes-card/`,
   },
   
   plugins: [
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `狗巻棘確率機`,
-        short_name: `狗巻棘確率機`,
+        name: `たばこ名刺`,
+        short_name: `たばこ名刺`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#2e2f41`,

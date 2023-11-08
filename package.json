@@ -1,12 +1,12 @@
 {
-  "name": "inumaki-probability-machine",
+  "name": "cigarettes-card",
   "version": "1.0.0",
   "private": true,
-  "description": "inumaki-probability-machine",
+  "description": "cigarettes-card",
   "author": "riotamoriya",
   "keywords": [
     "gatsby",
-    "inumaki-probability-machine"
+    "cigarettes-card"
   ],
   "scripts": {
     "develop": "gatsby clean && gatsby develop -H 0.0.0.0 -p 8200",
